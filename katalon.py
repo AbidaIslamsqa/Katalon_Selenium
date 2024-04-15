@@ -66,3 +66,4 @@ if act_id==exp_id:
     print("Successfully Submitted!")
 else:
     print("BUG")
+driver.close()
